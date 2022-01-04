@@ -11,3 +11,7 @@ A list of tooling etc to remember
 ## Site Change Monitoring
 - Visualping - https://visualping.io/
 - Changedetection.io - https://github.com/dgtlmoon/changedetection.io
+
+## Image Formats
+
+- Quite OK Image Format - https://github.com/phoboslab/qoi
