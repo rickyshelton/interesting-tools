@@ -15,3 +15,7 @@ A list of tooling etc to remember
 ## Image Formats
 
 - Quite OK Image Format - https://github.com/phoboslab/qoi
+
+## Online tools
+
+- CyberChef - https://gchq.github.io/CyberChef/
