@@ -1,6 +1,10 @@
 # interesting-tools
 A list of tooling etc to remember
 
+## CLI
+
+- HSTR - https://github.com/dvorka/hstr
+
 ## Templating
 - Jsonnet - https://jsonnet.org/
 
