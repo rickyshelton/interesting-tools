@@ -4,6 +4,7 @@ A list of tooling etc to remember
 ## CLI
 
 - HSTR - https://github.com/dvorka/hstr
+- icdiff - https://www.jefftk.com/icdiff - Improved diff tool
 
 ## Templating
 - Jsonnet - https://jsonnet.org/
