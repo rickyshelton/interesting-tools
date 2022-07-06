@@ -13,6 +13,7 @@ A list of tooling etc to remember
 ## Diagrams As Code
 - Python Diagrams - https://diagrams.mingrammer.com/
 - Inframap - https://github.com/cycloidio/inframap
+- Structurizr Lite - https://structurizr.com/help/lite
 
 ## Site Change Monitoring
 - Visualping - https://visualping.io/
