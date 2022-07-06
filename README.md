@@ -32,3 +32,6 @@ A list of tooling etc to remember
 
 ## Compression
 - zstd - https://facebook.github.io/zstd/
+
+## VS Code Plugins
+- infracost - https://github.com/infracost/vscode-infracost
