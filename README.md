@@ -39,3 +39,6 @@ A list of tooling etc to remember
 
 ## VS Code Plugins
 - infracost - https://github.com/infracost/vscode-infracost
+
+## Other
+- Quadrant Documentation Approach - https://documentation.divio.com/
