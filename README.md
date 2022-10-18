@@ -26,6 +26,10 @@ A list of tooling etc to remember
 
 - Quite OK Image Format - https://github.com/phoboslab/qoi
 
+## Workflow
+
+- Linear - https://linear.app
+
 ## Online tools
 
 - CyberChef - https://gchq.github.io/CyberChef/
