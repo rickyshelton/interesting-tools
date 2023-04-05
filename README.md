@@ -34,6 +34,9 @@ A list of tooling etc to remember
 
 - CyberChef - https://gchq.github.io/CyberChef/
 
+## Tool Building
+- Interval - https://interval.com/
+
 ## MacOS Usability Tooling
 - Choosy Browser - https://www.choosyosx.com/
 - Mosaic Window Manager - https://www.lightpillar.com/mosaic.html
