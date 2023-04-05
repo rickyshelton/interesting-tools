@@ -27,7 +27,7 @@ A list of tooling etc to remember
 - Quite OK Image Format - https://github.com/phoboslab/qoi
 
 ## Collaboration
-Mentimeter - https://www.mentimeter.com/
+- Mentimeter - https://www.mentimeter.com/
 
 ## Workflow
 
