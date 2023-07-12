@@ -1,6 +1,9 @@
 # interesting-tools
 A list of tooling etc to remember
 
+## Cheatsheets
+- devhints - https://devhints.io/
+
 ## CLI
 
 - HSTR - https://github.com/dvorka/hstr
