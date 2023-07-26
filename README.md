@@ -10,6 +10,10 @@ A list of tooling etc to remember
 - icdiff - https://www.jefftk.com/icdiff - Improved diff tool
 - tldr - https://tldr.sh/ - Better man pages
 
+## Python
+- FastAPI - https://fastapi.tiangolo.com/
+- Typer - https://typer.tiangolo.com/
+
 ## Templating
 - Jsonnet - https://jsonnet.org/
 
