@@ -57,6 +57,9 @@ A list of tooling etc to remember
 ## VS Code Plugins
 - infracost - https://github.com/infracost/vscode-infracost
 
+## Risk Analysis Tools
+- RiskTree - https://www.2t-security.com/risktree/
+
 ## Other
 - Quadrant Documentation Approach - https://documentation.divio.com/
 - Secure Cloud Examples - https://asecure.cloud/
