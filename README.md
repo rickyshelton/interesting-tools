@@ -9,6 +9,7 @@ A list of tooling etc to remember
 - HSTR - https://github.com/dvorka/hstr
 - icdiff - https://www.jefftk.com/icdiff - Improved diff tool
 - tldr - https://tldr.sh/ - Better man pages
+- iamlive - https://github.com/iann0036/iamlive - AWS IAM Policy Generator/Describer for AWS CLI calls
 
 ## Python
 - FastAPI - https://fastapi.tiangolo.com/
