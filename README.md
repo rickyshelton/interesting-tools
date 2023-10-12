@@ -10,6 +10,7 @@ A list of tooling etc to remember
 - icdiff - https://www.jefftk.com/icdiff - Improved diff tool
 - tldr - https://tldr.sh/ - Better man pages
 - iamlive - https://github.com/iann0036/iamlive - AWS IAM Policy Generator/Describer for AWS CLI calls
+- HTTPie - https://httpie.io/cli - A simple yet powerful command-line HTTP and API testing client for the API era.
 
 ## Python
 - FastAPI - https://fastapi.tiangolo.com/
