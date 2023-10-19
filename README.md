@@ -63,7 +63,7 @@ A list of tooling etc to remember
 - RiskTree - https://www.2t-security.com/risktree/
 
 ## Security
-- Key Cloak https://www.keycloak.org/ - Open Source IAM
+- Key Cloak - https://www.keycloak.org/ - Open Source IAM
 
 ## Other
 - Quadrant Documentation Approach - https://documentation.divio.com/
