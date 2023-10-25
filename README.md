@@ -37,6 +37,7 @@ A list of tooling etc to remember
 
 ## Collaboration
 - Mentimeter - https://www.mentimeter.com/
+- Slido - https://www.slido.com/ - The easiest way to make your meetings interactive
 
 ## Workflow
 
