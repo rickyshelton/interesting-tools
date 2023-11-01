@@ -21,6 +21,8 @@ A list of tooling etc to remember
 
 ## Infrastructure As Code
 - tfsec - https://github.com/aquasecurity/tfsec
+- terrascan - https://runterrascan.io/ - Detect compliance and security violations across IaC to mitigate risk before provisioning cloud infrastructure.
+- Gitleaks - https://gitleaks.io/ - Open-source secret scanner for git repositories, files, and directories
 
 ## Diagrams As Code
 - Python Diagrams - https://diagrams.mingrammer.com/
