@@ -4,15 +4,15 @@ A list of tooling etc to remember
 
 ## Cheatsheets
 
-| | |
-|-|-|
-| devhints | https://devhints.io/ |
+| | | |
+|-|-|-|
+| devhints | https://devhints.io/ | a modest collection of cheatsheets |
 
 ## CLI
 
 | | | |
 |-|-|-|
-| HSTR | https://github.com/dvorka/hstr | |
+| HSTR | https://github.com/dvorka/hstr | Easily view, navigate and search your command history |
 | icdiff | https://www.jefftk.com/icdiff | Improved diff tool|
 | tldr | https://tldr.sh/ | Better man pages |
 | iamlive | https://github.com/iann0036/iamlive | AWS IAM Policy Generator/Describer for AWS CLI calls |
@@ -20,10 +20,10 @@ A list of tooling etc to remember
 
 ## Python
 
-| | |
-|-|-|
-| FastAPI | https://fastapi.tiangolo.com/ |
-| Typer | https://typer.tiangolo.com/ |
+| | | |
+|-|-|-|
+| FastAPI | https://fastapi.tiangolo.com/ | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| Typer | https://typer.tiangolo.com/ | Typer, build great CLIs. Easy to code. Based on Python type hints |
 
 ## Templating
 
