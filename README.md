@@ -69,9 +69,9 @@ A list of tooling etc to remember
 
 ## Workflow
 
-| | |
-|-|-|
-| Linear | https://linear.app |
+| | | |
+|-|-|-|
+| Linear | https://linear.app | Streamline issues, sprints, and product roadmaps |
 
 ## Online tools
 
@@ -81,44 +81,44 @@ A list of tooling etc to remember
 
 ## Tool Building
 
-| | |
-|-|-|
-| Interval | https://interval.com |
+| | | |
+|-|-|-|
+| Interval | https://interval.com | Build internal tools with just backend code |
 
 ## MacOS Usability Tooling
 
-| | |
-|-|-|
-| Choosy Browser | https://www.choosyosx.com |
-| Mosaic Window Manager | https://www.lightpillar.com/mosaic.html |
+| | | |
+|-|-|-|
+| Choosy Browser | https://www.choosyosx.com | Choosy opens every link in the right browser |
+| Mosaic Window Manager | https://www.lightpillar.com/mosaic.html | MacOS Window manager |
 
 ## Compression
 
-| | |
-|-|-|
-| zstd | https://facebook.github.io/zstd |
+| | | |
+|-|-|-|
+| zstd | https://facebook.github.io/zstd | Zstandard is a fast compression algorithm, providing high compression ratios |
 
 ## VS Code Plugins
 
-| | |
-|-|-|
-| infracost | https://github.com/infracost/vscode-infracost |
+| | | |
+|-|-|-|
+| infracost | https://github.com/infracost/vscode-infracost | VS Code extension shows you cost estimates for Terraform right in your editor |
 
 ## Risk Analysis Tools
 
-| | |
-|-|-|
-| RiskTree | https://www.2t-security.com/risktree |
+| | | |
+|-|-|-|
+| RiskTree | https://www.2t-security.com/risktree | all-in-one risk analysis platform |
 
 ## Security
 
-| | |
-|-|-|
+| | | |
+|-|-|-|
 | Key Cloak | https://www.keycloak.org | Open Source IAM |
 
 ## Other
 
-| | |
-|-|-|
-| Quadrant Documentation Approach | https://documentation.divio.com |
-| Secure Cloud Examples | https://asecure.cloud |
+| | | |
+|-|-|-|
+| Quadrant Documentation Approach | https://documentation.divio.com | Documentation System |
+| Secure Cloud Examples | https://asecure.cloud | removes all the heavy lifting from building and operating secure cloud environments |
