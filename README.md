@@ -1,73 +1,124 @@
 # interesting-tools
+
 A list of tooling etc to remember
 
 ## Cheatsheets
-- devhints - https://devhints.io/
+
+| | |
+|-|-|
+| devhints | https://devhints.io/ |
 
 ## CLI
 
-- HSTR - https://github.com/dvorka/hstr
-- icdiff - https://www.jefftk.com/icdiff - Improved diff tool
-- tldr - https://tldr.sh/ - Better man pages
-- iamlive - https://github.com/iann0036/iamlive - AWS IAM Policy Generator/Describer for AWS CLI calls
-- HTTPie - https://httpie.io/cli - A simple yet powerful command-line HTTP and API testing client for the API era.
+| | | |
+|-|-|-|
+| HSTR | https://github.com/dvorka/hstr | |
+| icdiff | https://www.jefftk.com/icdiff | Improved diff tool|
+| tldr | https://tldr.sh/ | Better man pages |
+| iamlive | https://github.com/iann0036/iamlive | AWS IAM Policy Generator/Describer for AWS CLI calls |
+| HTTPie | https://httpie.io/cli | A simple yet powerful command-line HTTP and API testing client for the API era |
 
 ## Python
-- FastAPI - https://fastapi.tiangolo.com/
-- Typer - https://typer.tiangolo.com/
+
+| | |
+|-|-|
+| FastAPI | https://fastapi.tiangolo.com/ |
+| Typer | https://typer.tiangolo.com/ |
 
 ## Templating
-- Jsonnet - https://jsonnet.org/
+
+| | |
+|-|-|
+| Jsonnet | https://jsonnet.org/ |
 
 ## Infrastructure As Code
-- tfsec - https://github.com/aquasecurity/tfsec
-- terrascan - https://runterrascan.io/ - Detect compliance and security violations across IaC to mitigate risk before provisioning cloud infrastructure.
-- Gitleaks - https://gitleaks.io/ - Open-source secret scanner for git repositories, files, and directories
+
+| | | |
+|-|-|-|
+| tfsec | https://github.com/aquasecurity/tfsec |
+| terrascan | https://runterrascan.io/ | Detect compliance and security violations across IaC to mitigate risk before provisioning cloud infrastructure |
+| Gitleaks | https://gitleaks.io/ | Open-source secret scanner for git repositories, files, and directories |
 
 ## Diagrams As Code
-- Python Diagrams - https://diagrams.mingrammer.com/
-- Inframap - https://github.com/cycloidio/inframap
-- Structurizr Lite - https://structurizr.com/help/lite
+
+| | |
+|-|-|
+| Python Diagrams | https://diagrams.mingrammer.com/ |
+| Inframap | https://github.com/cycloidio/inframap |
+| Structurizr Lite | https://structurizr.com/help/lite |
 
 ## Site Change Monitoring
-- Visualping - https://visualping.io/
-- Changedetection.io - https://github.com/dgtlmoon/changedetection.io
+
+| | |
+|-|-|
+| Visualping | https://visualping.io/ |
+| Changedetection.io | https://github.com/dgtlmoon/changedetection.io |
 
 ## Image Formats
 
-- Quite OK Image Format - https://github.com/phoboslab/qoi
+| | |
+|-|-|
+| Quite OK Image Format | https://github.com/phoboslab/qoi |
 
 ## Collaboration
-- Mentimeter - https://www.mentimeter.com/
-- Slido - https://www.slido.com/ - The easiest way to make your meetings interactive
+
+| | | |
+|-|-|-|
+| Mentimeter | https://www.mentimeter.com/ | |
+| Slido | https://www.slido.com | The easiest way to make your meetings interactive |
 
 ## Workflow
 
-- Linear - https://linear.app
+| | |
+|-|-|
+| Linear | https://linear.app |
 
 ## Online tools
 
-- CyberChef - https://gchq.github.io/CyberChef/
+| | | |
+|-|-|-|
+| CyberChef | https://gchq.github.io/CyberChef | Digital swiss army knife |
 
 ## Tool Building
-- Interval - https://interval.com/
+
+| | |
+|-|-|
+| Interval | https://interval.com |
 
 ## MacOS Usability Tooling
-- Choosy Browser - https://www.choosyosx.com/
-- Mosaic Window Manager - https://www.lightpillar.com/mosaic.html
+
+| | |
+|-|-|
+| Choosy Browser | https://www.choosyosx.com |
+| Mosaic Window Manager | https://www.lightpillar.com/mosaic.html |
 
 ## Compression
-- zstd - https://facebook.github.io/zstd/
+
+| | |
+|-|-|
+| zstd | https://facebook.github.io/zstd |
 
 ## VS Code Plugins
-- infracost - https://github.com/infracost/vscode-infracost
+
+| | |
+|-|-|
+| infracost | https://github.com/infracost/vscode-infracost |
 
 ## Risk Analysis Tools
-- RiskTree - https://www.2t-security.com/risktree/
+
+| | |
+|-|-|
+| RiskTree | https://www.2t-security.com/risktree |
 
 ## Security
-- Key Cloak - https://www.keycloak.org/ - Open Source IAM
+
+| | |
+|-|-|
+| Key Cloak | https://www.keycloak.org | Open Source IAM |
 
 ## Other
-- Quadrant Documentation Approach - https://documentation.divio.com/
-- Secure Cloud Examples - https://asecure.cloud/
+
+| | |
+|-|-|
+| Quadrant Documentation Approach | https://documentation.divio.com |
+| Secure Cloud Examples | https://asecure.cloud |
