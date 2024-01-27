@@ -50,6 +50,7 @@ A list of tooling etc to remember
 | Linear | https://linear.app | Streamline issues, sprints, and product roadmaps |
 | | | |
 | ***Online tools*** |
+| Eraser | https://www.eraser.io/ | Documents & diagrams for engineering teams |
 | CyberChef | https://gchq.github.io/CyberChef | Digital swiss army knife |
 | | | |
 | ***Tool Building*** |
