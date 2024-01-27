@@ -15,8 +15,7 @@ A list of tooling etc to remember
 | tldr | https://tldr.sh/ | Better man pages |
 | iamlive | https://github.com/iann0036/iamlive | AWS IAM Policy Generator/Describer for AWS CLI calls |
 | HTTPie | https://httpie.io/cli | A simple yet powerful command-line HTTP and API testing client for the API era |
-| Granted | [https://www.granted.dev](https://www.granted.dev/) | A CLI application which provides the world’s best developer UX for finding and accessing cloud roles to multiple
-cloud accounts, fast! |
+| Granted | [https://www.granted.dev](https://www.granted.dev/) | A CLI application which provides the world’s best developer UX for finding and accessing cloud roles to multiple cloud accounts, fast! |
 | jcspd | https://github.com/kucherenko/jscpd | Copy/Paste Detector |
 | | | |
 | ***Python*** |
