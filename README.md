@@ -75,3 +75,5 @@ A list of tooling etc to remember
 | ***Other*** |
 | Quadrant Documentation Approach | https://documentation.divio.com | Documentation System |
 | Secure Cloud Examples | https://asecure.cloud | removes all the heavy lifting from building and operating secure cloud environments |
+| ***SVG*** |
+| SVG Loading Icons by Sam Herbert| https://samherbert.net/svg-loaders/ | SVG Loading Icons |
