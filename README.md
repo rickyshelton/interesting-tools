@@ -21,6 +21,7 @@ A list of tooling etc to remember
 | ***Python*** |
 | FastAPI | https://fastapi.tiangolo.com/ | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 | Typer | https://typer.tiangolo.com/ | Typer, build great CLIs. Easy to code. Based on Python type hints |
+| uv | https://github.com/astral-sh/uv | An extremely fast Python package installer and resolver, written in Rust. Designed as a drop-in replacement for common pip and pip-tools workflows. |
 | | | |
 | ***Templating*** |
 | Jsonnet | https://jsonnet.org/ |
