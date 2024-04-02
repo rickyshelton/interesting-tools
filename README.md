@@ -40,25 +40,25 @@ A list of tooling etc to remember
 ## Diagrams As Code
 ||||
 |---|---|---|
-| Python Diagrams | https://diagrams.mingrammer.com/ | |
-| Inframap | https://github.com/cycloidio/inframap | |
-| Structurizr Lite | https://structurizr.com/help/lite | |
+| Python Diagrams | https://diagrams.mingrammer.com/ | Diagrams lets you draw the cloud system architecture in Python code. |
+| Inframap | https://github.com/cycloidio/inframap | Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant. |
+| Structurizr Lite | https://structurizr.com/help/lite | This free and open source version of Structurizr allows you to view/edit diagrams, view documentation, and view architecture decision records defined in a single DSL or JSON workspace. |
 
 ## Site Change Monitoring
 ||||
 |---|---|---|
-| Visualping | https://visualping.io/ | |
-| Changedetection.io | https://github.com/dgtlmoon/changedetection.io | |
+| Visualping | https://visualping.io/ | We monitor website changes ...so you don’t have to! |
+| Changedetection.io | https://github.com/dgtlmoon/changedetection.io | Detect website content changes and perform meaningful actions - trigger notifications via Discord, Email, Slack, Telegram, API calls and many more.|
 
 ## Image Formats
 ||||
 |---|---|---|
-| Quite OK Image Format | https://github.com/phoboslab/qoi | |
+| Quite OK Image Format | https://github.com/phoboslab/qoi | The “Quite OK Image Format” for fast, lossless image compression |
 
 ## Collaboration
 ||||
 |---|---|---|
-| Mentimeter | https://www.mentimeter.com/ | |
+| Mentimeter | https://www.mentimeter.com/ | Facilitate group conversations and learning with interactive slides that get remote, hybrid, and in-person audiences leaning in. |
 | Slido | https://www.slido.com | The easiest way to make your meetings interactive |
 
 ## Workflow
