@@ -28,7 +28,7 @@ A list of tooling etc to remember
 ## Templating
 ||||
 |---|---|---|
-| Jsonnet | https://jsonnet.org/ |
+| Jsonnet | https://jsonnet.org/ | A configuration language for app and tool developers. A simple extension of JSON |
 
 ## Infrastructure As Code
 ||||
